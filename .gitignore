@@ -1,3 +1,3 @@
 *.log
 *.cpp
-*.py
+/Ignorefolder/ignore.py
